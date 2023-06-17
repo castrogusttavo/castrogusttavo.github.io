@@ -238,8 +238,8 @@ body.dark-theme {
 }
 
 .nav__logo{
-  width: 25px;
-  height: 25px;
+  width: 35px;
+  height: 35px;
 }
 
 .nav__toggle{
@@ -1018,8 +1018,8 @@ body.dark-theme {
     gap: 1rem 1.25rem;
   }
   .nav__logo{
-    height: .5rem;
-    width: .5rem;
+    height: 1.5rem;
+    width: 1.5rem;
   }
 
   .skills__info{
@@ -1163,8 +1163,8 @@ body.dark-theme {
     font-size: var(--normal-font-size);
   }
   .nav__logo{
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
   }
 
   .skills__container{
