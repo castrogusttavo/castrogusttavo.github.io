@@ -1163,8 +1163,8 @@ body.dark-theme {
     font-size: var(--normal-font-size);
   }
   .nav__logo{
-    width: 50px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
   }
 
   .skills__container{
