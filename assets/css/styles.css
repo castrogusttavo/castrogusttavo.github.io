@@ -210,6 +210,11 @@ body.dark-theme {
   overflow: hidden; /* For animation */
 }
 
+.link__icon{
+  width: 30px;
+  height: 30px;
+}
+
 /*=============== HEADER & NAV ===============*/
 .header{
   width: 100%;
