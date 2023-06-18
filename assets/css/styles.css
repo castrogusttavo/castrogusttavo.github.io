@@ -211,8 +211,7 @@ body.dark-theme {
 }
 
 .link__icon{
-  width: 30px;
-  height: 30px;
+  font-size: 1.5rem;
 }
 
 /*=============== HEADER & NAV ===============*/
