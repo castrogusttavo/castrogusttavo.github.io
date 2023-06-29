@@ -242,8 +242,9 @@ body.dark-theme {
 }
 
 .nav__logo{
-  width: 35px;
-  height: 35px;
+  width: 60px;
+  display: flex;
+  align-items: center;
 }
 
 .nav__toggle{
@@ -1167,8 +1168,9 @@ body.dark-theme {
     font-size: var(--normal-font-size);
   }
   .nav__logo{
-    width: 45px;
-    height: 45px;
+    width: 90px;
+    display: flex;
+    align-items: center;
   }
 
   .skills__container{
