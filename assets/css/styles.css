@@ -1168,6 +1168,12 @@ body.dark-theme {
     font-size: var(--normal-font-size);
   }
 
+  .nav__logo{
+    width: 80px;
+    display: flex;
+    align-items: center;
+  }
+
   .skills__container{
     column-gap: 22rem;
   }
